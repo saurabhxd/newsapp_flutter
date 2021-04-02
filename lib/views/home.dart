@@ -43,7 +43,7 @@ class _HomeState extends State<Home> {
           title: Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Text('SRS'),
+              Text('Flutter'),
               Text(
                 'News',
                 style: TextStyle(color: Colors.blue),
